@@ -3,7 +3,7 @@
 
 </p>
 
-### Hi there, I'm Rishabh Kumar - aka [HeVen1k] 👋
+### Hi there, I'm Rishabh Kumar - aka [HeVen11k] 👋
 A 22-year old Computer Science student from KIIT . When I'm not building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms and playing football .
 
 - 🔭 I am learning Hadoop
@@ -13,13 +13,6 @@ A 22-year old Computer Science student from KIIT . When I'm not building things,
 
 
 <br />
-
-
-[![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k)](https://github.com/HeVen11k/github-readme-stats)
-
-![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k&show_icons=true&theme=nightowl)
-
-
 
 ### Languages and Tools:
 
@@ -35,4 +28,8 @@ A 22-year old Computer Science student from KIIT . When I'm not building things,
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+
+[![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k)](https://github.com/HeVen11k/github-readme-stats)
+
+![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k&show_icons=true&theme=nightowl)
 
