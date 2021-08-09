@@ -8,14 +8,14 @@ A 22-year old Computer Science student from KIIT . When I'm not building things,
 
 - 🔭 I am learning Hadoop
 - 🥅 2021 Goals: Get fluent in more programming languages .
-- ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
+- ⚡ Hobbies: Football, playing video games, watching anime, listening to Music.
 
 
 
 <br />
 
 ### Languages and Tools:
-
+<p>
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -26,7 +26,8 @@ A 22-year old Computer Science student from KIIT . When I'm not building things,
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://banner2.cleanpng.com/20180419/yxw/kisspng-terminal-command-line-interface-brand-macos-terminal-vector-5ad90679205b27.2293792915241724091325.jpg" />]
+  </p>
 
 
 [![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k)](https://github.com/HeVen11k/github-readme-stats)
