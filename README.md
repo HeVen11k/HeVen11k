@@ -7,7 +7,7 @@
 A 23-year old Computer Science student from KIIT . When I'm not building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms and playing football .
 
 - 🔭 I am learning Python
-- 🥅 2021 Goals: Get fluent in more programming languages .
+- 🥅 2022 Goals: Get fluent in more programming languages .
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to Music.
 
 
