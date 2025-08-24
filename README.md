@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there, I'm Rishabh Kumar - aka [HeVen11k] 👋
-A 23-year old Computer Science student from KIIT . When I'm not building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms and playing football .
+A 26-year old Computer Science student from KIIT . When I'm not building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms and playing football .
 
 - 🔭 I am learning Python
 - 🥅 2024 Goals: Get fluent in more programming languages .
@@ -30,4 +30,5 @@ A 23-year old Computer Science student from KIIT . When I'm not building things,
   </p> -->
 
 ![Heven's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeVen11k&show_icons=true&theme=nightowl)
+
 
